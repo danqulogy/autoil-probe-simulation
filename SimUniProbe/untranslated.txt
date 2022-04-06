@@ -1,0 +1,8 @@
+# NAFTA POS Language file
+# Format spec: Ignored empty line & line with first char '#' 
+# <src_language_line> 
+# <dst_language_line> 
+# !!! NOT TRANSLATED MESSAGES !!!
+#0001)----------------------------------------
+"0.5"
+"0.5"

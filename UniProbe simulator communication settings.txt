@@ -1,0 +1,9 @@
+UniProbe simulator communication settings:
+Baud rate = 9600
+Bit = 8
+Stop bits = 1
+Parity = none
+
+PTS controller adjustments:
+ATG channel protocol - "9. TIT UniProbe"
+Baud rate - "4. 9600"
